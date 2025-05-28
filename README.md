@@ -3,10 +3,10 @@
 
 🛠 I have experience with: Python / SQL • Azure • Apache Spark / Machine Learning • Power BI / Excel
  
-🌿 I enjoy: continuous learning • reading • maintaining a healthy lifestyle • and listening to podcasts 📈
+🌿 I enjoy: Continuous learning • Reading • Maintaining a healthy lifestyle • and Listening to podcasts 📈
 
-🌟 Worked on ML, data science, and business projects
+🌟 Worked on ML • Data science • Business projects
 
 👨🏻‍🎓 Master's in Computer Science
 
-🔜 Currently learning: deep learning • advanced statistics
+🔜 Currently learning: Deep learning • Advanced statistics
