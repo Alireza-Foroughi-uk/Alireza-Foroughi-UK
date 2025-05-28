@@ -10,8 +10,3 @@
 👨🏻‍🎓 Master's in Computer Science
 
 🔜 Currently learning: deep learning • advanced statistics
-
-Connect with me:
-🔗 LinkedIn
-
-🌱 GitHub
