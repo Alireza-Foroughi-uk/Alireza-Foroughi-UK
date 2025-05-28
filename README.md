@@ -5,7 +5,7 @@
  
 🌿 I enjoy: continuous learning • reading • maintaining a healthy lifestyle • and listening to podcasts 📈
 
-🌟 Worked on projects for British Airways, British Telecom, and JP Morgan
+🌟 Worked on ML, data science, and business projects
 
 👨🏻‍🎓 Master's in Computer Science
 
