@@ -5,7 +5,7 @@
  
 🌿 I enjoy: Continuous learning • Reading • Maintaining a healthy lifestyle • Listening to podcasts 📈
 
-🌟 Worked on ML • Data science • Business projects
+🌟 Worked on: ML • Data science • Business projects
 
 👨🏻‍🎓 Master's in Computer Science
 
