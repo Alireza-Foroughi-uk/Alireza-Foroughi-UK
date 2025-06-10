@@ -3,7 +3,7 @@
 
 🛠 I have experience with: Python • SQL • Azure • Apache Spark • Machine Learning • Power BI • Excel 
  
-🌿 I enjoy: Continuous learning • Reading • Maintaining a healthy lifestyle • Listening to podcasts 📈
+🌿 I enjoy: Continuous learning • Reading • Maintaining a healthy lifestyle • Listening to podcasts 
 
 🌟 Worked on: ML • Data science • Business projects
 
