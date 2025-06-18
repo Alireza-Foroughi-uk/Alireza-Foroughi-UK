@@ -9,5 +9,4 @@
 
 👨🏻‍🎓 Master's in Computer Science
 
-🔜 Currently: Enhancing Digital Marketing through Voice
-Ad Analysis with Deep Learning ( Final Master Project )
+🔜 Currently: Working on Master Project
