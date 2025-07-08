@@ -7,6 +7,6 @@
 
 🌟 Worked on: ML • Data science • Business projects
 
-👨🏻‍🎓 Master's in Computer Science •
+👨🏻‍🎓 Master's in Computer Science 
 
 🔜 Currently: Working on Master Project
