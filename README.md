@@ -9,4 +9,4 @@
 
 👨🏻‍🎓 Master's in Computer Science 
 
-🔜 Currently: Working on Master Project
+🔜 Currently: Working on Master Project •
