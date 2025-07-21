@@ -1,5 +1,5 @@
 ## Hi, I'm Ali ! 👋 
-💻 Data Analyst | Full-Time Learner based in London, UK
+💻 Data Analyst based in London, UK
 
 🛠 I have experience with: Python • SQL • Azure • Apache Spark • Machine Learning • Power BI • Excel 
  
