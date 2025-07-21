@@ -9,4 +9,4 @@
 
 👨🏻‍🎓 Master's in Computer Science 
 
-🔜 Currently: Working on Master Project ( Deep Learning Based - CNN + LSTM )
+🔜 Currently: Working on Master Project ( Deep Learning: CNN + LSTM )
