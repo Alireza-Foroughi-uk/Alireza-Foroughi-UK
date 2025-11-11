@@ -9,16 +9,11 @@
 
 **Proficient Experience:**  
 - Machine Learning • Deep Learning • Apache Spark  
-
 ---
-
 ### 🎓 **Education**
 - **Master’s in Computer Science**
-
 ---
-
 ### 🌱 **Interests**
 - Reading • Healthy lifestyle • Podcasts
-
 ---
 *Open to new opportunities – let’s connect!*
