@@ -1,10 +1,24 @@
-## Hi, I'm Ali ! 👋 
-💻 Data Analyst based in London, UK
+## Hi, I'm Ali! 👋
+🇬🇧 **Data Analyst** based in **London, UK**  
+*Actively seeking Analyst, Junior Data Scientist, or Junior Data Engineer roles in the United Kingdom*
 
-🛠 I have experience with: Python • SQL • Azure • Apache Spark • Machine Learning • Power BI • Excel 
- 
-🌿 I enjoy: Reading • Maintaining a healthy lifestyle • Listening to podcasts 
+### 🔧 **Technical Expertise**
+**Expert Level:**  
+- SQL • Python • Excel • Power BI • Azure  
+- Statistics & Probability  
 
-🌟 Worked on: ML • Data science • Business projects
+**Proficient Experience:**  
+- Machine Learning • Deep Learning • Apache Spark  
 
-👨🏻‍🎓 Master's in Computer Science 
+---
+
+### 🎓 **Education**
+- **Master’s in Computer Science**
+
+---
+
+### 🌱 **Interests**
+- Reading • Healthy lifestyle • Podcasts
+
+---
+*Open to new opportunities – let’s connect!*
