@@ -17,3 +17,4 @@
 - Reading • Healthy lifestyle • Podcasts
 ---
 *Open to new opportunities – let’s connect!*
+Alirezaforoughiuk@gmail.com
