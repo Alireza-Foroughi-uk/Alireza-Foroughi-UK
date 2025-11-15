@@ -1,6 +1,6 @@
 ## Hi, I'm Ali! 👋
 🇬🇧 **Data Analyst** based in **London, UK**  
-*Actively seeking Analyst, Junior Data Scientist, or Junior Data Engineer roles in the United Kingdom*
+*Actively seeking a new position in the Data field in the United Kingdom*
 
 ### 🔧 **Technical Expertise**
 **Expert Level:**  
