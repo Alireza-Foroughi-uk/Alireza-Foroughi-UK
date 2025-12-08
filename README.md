@@ -11,7 +11,7 @@
 - Machine Learning • Deep Learning • Apache Spark  
 ---
 ### 🎓 **Education**
-- **Master’s in Computer Science ( First Class Honours (1st)) **
+- Master’s in Computer Science ( First Class Honours - 1st )
 ---
 ### 🌱 **Interests**
 - Reading • Healthy lifestyle • Podcasts
