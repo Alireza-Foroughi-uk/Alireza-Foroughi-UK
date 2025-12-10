@@ -1,5 +1,6 @@
 ## Hi, I'm Ali! 👋
 🇬🇧 **Data Analyst** based in **London, UK**  - More than 2 years of experience in Data field.
+
 *Actively seeking a new position in the Data field in the United Kingdom*
 
 ### 🔧 **Technical Expertise**
