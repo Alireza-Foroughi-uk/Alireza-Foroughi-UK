@@ -14,8 +14,5 @@
 ### 🎓 **Education**
 - Master’s in Computer Science ( First Class Honours - 1st )
 ---
-### 🌱 **Interests**
-- GYM • Reading • Healthy lifestyle • Podcasts
----
 *Open to new opportunities – let’s connect!*
 Alirezaforoughiuk@gmail.com
