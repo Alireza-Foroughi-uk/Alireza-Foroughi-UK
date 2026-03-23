@@ -1,18 +1,15 @@
 ## Hi, I'm Ali! 👋
-🇬🇧 **Data Analyst** based in **London, UK**  - More than 2 years of experience in Data field.
-
+Data Professional | MSc Computer Science
+🇬🇧 London-based with 2+ years of experience across the data field, including data engineering and analysis. I specialize in building ETL pipelines, processing big data, and developing machine learning models.
 *Actively seeking a new position in the Data field in the United Kingdom*
 
-### 🔧 **Technical Expertise**
-**Expert Level:**  
+### 🔧 **🛠️ Tech Stack**  
 - SQL • Python • Excel • Power BI • Azure  
 - Statistics & Probability  
 
-**Proficient Experience:**  
-- Machine Learning • Deep Learning • Apache Spark  
----
-### 🎓 **Education**
-- Master’s in Computer Science ( First Class Honours - 1st )
+**🏗️ Current Focus: **  
+- Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows.
 ---
 *Open to new opportunities – let’s connect!*
 Alirezaforoughiuk@gmail.com
+LinkedIn: linkedin.com/in/alirezaforoughi
