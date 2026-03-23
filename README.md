@@ -12,5 +12,4 @@ Data Professional | MSc Computer Science
 - Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows.
 ---
 *Open to new opportunities – let’s connect!*
-Alirezaforoughiuk@gmail.com
-LinkedIn: linkedin.com/in/alirezaforoughi
+Alirezaforoughiuk@gmail.com - linkedin.com/in/alirezaforoughi
