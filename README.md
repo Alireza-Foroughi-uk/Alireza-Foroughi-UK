@@ -8,7 +8,7 @@ Data Professional | MSc Computer Science
 - SQL • Python • Excel • Power BI • Azure  
 - Statistics & Probability  
 
-###🏗️ Current Focus: 
+🏗️ Current Focus: 
 - Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows.
 ---
 *Open to new opportunities – let’s connect!*
