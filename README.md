@@ -9,6 +9,8 @@ Data Professional | MSc Computer Science
 - Statistics & Probability  
 
 🏗️ Current Focus: 
+
+
 *Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows*
 ---
 *Open to new opportunities*
