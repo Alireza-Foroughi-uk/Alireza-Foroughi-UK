@@ -8,7 +8,8 @@ Data Professional | MSc Computer Science
 - SQL • Python • Excel • Power BI • Azure  
 - Statistics & Probability  
 
-🏗️ Current Focus: Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows.
+🏗️ Current Focus: 
+*Data Engineering: Building end-to-end pipelines, data ingestion, and transformation workflows*
 ---
 *Open to new opportunities*
 Alirezaforoughiuk@gmail.com - [linkedin.com/in/alirezaforoughi](https://www.linkedin.com/in/alirezaforoughi/)
