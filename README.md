@@ -5,7 +5,7 @@ Data Professional | MSc Computer Science
 🇬🇧 London-based with 2+ years of experience across the data field, including data engineering and analysis. I specialize in building ETL pipelines, processing big data, and developing machine learning models - Actively seeking a new position in the Data field in the United Kingdom
 
 ### **🛠️ Tech Stack**  
-- SQL • Python • Excel • Power BI • Azure  
+- SQL • Python • Excel • Power BI • AWS  
 - Statistics & Probability  
 
 ### **🏗️ Current Focus:** 
