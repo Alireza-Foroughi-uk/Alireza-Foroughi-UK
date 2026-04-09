@@ -16,4 +16,4 @@ I specialize in building ETL pipelines, processing big data, and developing mach
 - Web/Dev → VideoPlatform-Development-Deployment
 ---
 # Open to new opportunities
-    Alirezaforoughiuk@gmail.com - [linkedin.com/in/alirezaforoughi](https://www.linkedin.com/in/alirezaforoughi/)
+ Alirezaforoughiuk@gmail.com - [linkedin.com/in/alirezaforoughi](https://www.linkedin.com/in/alirezaforoughi/)
