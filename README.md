@@ -15,5 +15,5 @@ I specialize in building ETL pipelines, processing big data, and developing mach
     - Business → British Airways Project , BT Project , JPM Project
     - Web/Dev → VideoPlatform-Development-Deployment
 ---
-# Open to new opportunities*
+# Open to new opportunities
     Alirezaforoughiuk@gmail.com - [linkedin.com/in/alirezaforoughi](https://www.linkedin.com/in/alirezaforoughi/)
