@@ -9,11 +9,11 @@ I specialize in building ETL pipelines, processing big data, and developing mach
     - Statistics & Probability  
 
 # 🏗️Summary:
-    -🔧 Currently building: 3 Data Engineering projects — pipelines, ingestion & transformation workflows
-    - Data Analytics → BigData-Analytics-Spark Project
-    - ML/AI → FraudGuard-ML Project and  Voice-Advertisement-Analysis Project
-    - Business → British Airways Project , BT Project , JPM Project
-    - Web/Dev → VideoPlatform-Development-Deployment
+-🔧 Currently building: 3 Data Engineering projects — pipelines, ingestion & transformation workflows
+- Data Analytics → BigData-Analytics-Spark Project
+- ML/AI → FraudGuard-ML Project and  Voice-Advertisement-Analysis Project
+- Business → British Airways Project , BT Project , JPM Project
+- Web/Dev → VideoPlatform-Development-Deployment
 ---
 # Open to new opportunities
     Alirezaforoughiuk@gmail.com - [linkedin.com/in/alirezaforoughi](https://www.linkedin.com/in/alirezaforoughi/)
