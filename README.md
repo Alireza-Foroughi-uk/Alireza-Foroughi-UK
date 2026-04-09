@@ -1,4 +1,4 @@
-# Hi, I'm Ali! 👋
+# Ali | Turning raw data into insight | Data Engineer & Analyst👋
     Data Professional | MSc Computer Science | Actively seeking a new position in the Data field in the United Kingdom 🇬🇧
   
 London-based with 2+ years of experience across the data field, including data engineering and analysis. 
