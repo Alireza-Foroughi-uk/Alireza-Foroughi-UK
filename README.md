@@ -5,7 +5,7 @@ London-based with 2+ years of experience across the data field, including data e
 I specialize in building ETL pipelines, processing big data, and developing machine learning models
 
 # 🛠️ Tech Stack 
-    - SQL • Python • Excel • Power BI • AWS  
+    - SQL • Python • Excel • Power BI • AWS/Azure  
     - Statistics & Probability  
 
 # 🏗️Summary:
