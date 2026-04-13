@@ -3,7 +3,9 @@
 # Building ETL pipelines with Airflow, AWS & PySpark | MSc Computer Science (1st) | Open to junior DE/DA roles in London 🇬🇧
 
 # 🛠️ Tech Stack 
-    - SQL • Python • Excel • Power BI • AWS/Azure   
+     - SQL • Python • Pandas • PySpark • Power BI
+    - AWS (S3 • EC2 • Glue • Athena) • Azure (Databricks • Blob Storage)
+    - Apache Airflow • ETL Pipelines • Data Lakes 
 
 # 🏗️Summary:
 -🔧 Currently building: 3 Data Engineering projects — pipelines, ingestion & transformation workflows
